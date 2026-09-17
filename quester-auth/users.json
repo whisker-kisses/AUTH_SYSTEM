@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "users": {
+      "wtx": {
+        "password": "1",
+        "expiry": 4102444800000
+      },
+      "bob": {
+        "password": "bob-password",
+        "expiry": 4102444800000
+      }
+    }
+  }
+}
